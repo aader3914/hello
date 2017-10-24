@@ -1,0 +1,6 @@
+Server User
+administrator / ji3g45j -4274
+
+DB User
+sa / CCmedi@
+
